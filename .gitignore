@@ -131,3 +131,7 @@ dmypy.json
 # Custom
 config.yaml
 *.bak
+
+#pydev
+.project
+.pydevproject
